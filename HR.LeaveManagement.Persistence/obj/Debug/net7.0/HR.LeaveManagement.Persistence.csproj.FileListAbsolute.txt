@@ -1,0 +1,17 @@
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.deps.json
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.dll
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.pdb
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net7.0\Application.dll
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net7.0\Application.pdb
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.AssemblyInfo.cs
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.CopyComplete
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.dll
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net7.0\refint\HR.LeaveManagement.Persistence.dll
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.pdb
+E:\Samples\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net7.0\ref\HR.LeaveManagement.Persistence.dll
