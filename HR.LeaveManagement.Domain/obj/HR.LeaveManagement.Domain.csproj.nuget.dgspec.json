@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {}
+    "E:\\Samples\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+    "E:\\Samples\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectUniqueName": "E:\\Samples\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "projectName": "HR.LeaveManagement.Domain",
-        "projectPath": "D:\\Projects\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\obj\\",
+        "projectPath": "E:\\Samples\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\m.davoudi\\.nuget\\packages\\",
+        "outputPath": "E:\\Samples\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m.davoudi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "D:\\Nuget Packages": {}
         },
         "frameworks": {
           "net7.0": {
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
